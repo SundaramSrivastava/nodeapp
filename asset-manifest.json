@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SundaramSrivastava/static/css/main.fce8873e.chunk.css",
+    "main.js": "/SundaramSrivastava/static/js/main.b0083d57.chunk.js",
+    "main.js.map": "/SundaramSrivastava/static/js/main.b0083d57.chunk.js.map",
+    "runtime-main.js": "/SundaramSrivastava/static/js/runtime-main.360776f1.js",
+    "runtime-main.js.map": "/SundaramSrivastava/static/js/runtime-main.360776f1.js.map",
+    "static/js/2.f859086b.chunk.js": "/SundaramSrivastava/static/js/2.f859086b.chunk.js",
+    "static/js/2.f859086b.chunk.js.map": "/SundaramSrivastava/static/js/2.f859086b.chunk.js.map",
+    "index.html": "/SundaramSrivastava/index.html",
+    "precache-manifest.5cc9b93d3a1790009e261d33dacb2dcb.js": "/SundaramSrivastava/precache-manifest.5cc9b93d3a1790009e261d33dacb2dcb.js",
+    "service-worker.js": "/SundaramSrivastava/service-worker.js",
+    "static/css/main.fce8873e.chunk.css.map": "/SundaramSrivastava/static/css/main.fce8873e.chunk.css.map",
+    "static/js/2.f859086b.chunk.js.LICENSE.txt": "/SundaramSrivastava/static/js/2.f859086b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.360776f1.js",
+    "static/js/2.f859086b.chunk.js",
+    "static/css/main.fce8873e.chunk.css",
+    "static/js/main.b0083d57.chunk.js"
+  ]
+}
